@@ -1,10 +1,10 @@
 ## OpsecDB
 
-A Opensource Osint Database.
+A Opensource Advanced IP Grabber with Discord Support.
 
-### Standard Login
+### Manager Site
 ```
-ID: 1 / name: administrator / opsecid: admin
+https://yourdomain/manage.php
 ```
 
 ## CREDITS ##
@@ -12,5 +12,5 @@ Author: Arctis
 
 ## How to Use ##
 Host the php files.
-Create a table in your Database named opsec_db and then put the sql into your Database.
+Create a table in your Database named logger and then put the sql into your Database.
 **
